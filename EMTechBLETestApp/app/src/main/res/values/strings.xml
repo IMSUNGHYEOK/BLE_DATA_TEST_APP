@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EM-Tech BLE Test App</string>
+    <string-array name="string_UUID">
+    </string-array>
+</resources>
