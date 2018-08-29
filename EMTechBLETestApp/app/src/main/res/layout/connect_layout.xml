@@ -89,13 +89,21 @@
         </Spinner>
 
     </LinearLayout>
-
+    <View
+        android:background="#0000FF"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"/>
     <LinearLayout
         android:layout_margin="10dp"
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
+
 
     <RelativeLayout
         android:layout_width="wrap_content"
